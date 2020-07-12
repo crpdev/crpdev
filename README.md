@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**crpdev/crpdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Rajapandian 👋
 
-Here are some ideas to get you started:
+I glad if you're looking at this space to know about me and to have a look at my repositories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎭 Polyglot Software Enginneer from 🇮🇳
+- 📶 Specialized in Integrations Solutions, Microservices and Blockchain
+- 🔰 A new Rustacean who newly joined the troop
+- 📝 Learning is my obsession and I love to learn, experiment and compose articles and blogs
+- 🏁 Commitment to get better everyday
+- 👐 Love to collaborate in a community driven environment and like minded people
+- 📫 [LinkedIn](https://www.linkedin.com/in/rajapandianc/)
+- 📟 [Twitter](https://twitter.com/crpcodes)
