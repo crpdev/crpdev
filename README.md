@@ -12,6 +12,8 @@ I am Rajapandian and I am glad if you're looking at this space to know about me 
 - 📫 [LinkedIn](https://www.linkedin.com/in/rajapandianc/)
 - 📟 [Twitter](https://twitter.com/crpcodes)
 
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=crpdev&count_private=true&theme=tokyonight&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=crpdev&langs_count=5&theme=tokyonight)]()
