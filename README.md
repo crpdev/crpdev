@@ -12,6 +12,10 @@ I am Rajapandian and I am glad if you're looking at this space to know about me 
 - 📫 [LinkedIn](https://www.linkedin.com/in/rajapandianc/)
 - 📟 [Twitter](https://twitter.com/crpcodes)
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=crpdev&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=crpdev&langs_count=5&theme=tokyonight)]()
+
+
 Side Projects:
 
 - Spring Boot Microservices And Cloud : [Documentation](https://github.com/crpdev/mssc-oil-service/blob/master/README.md) : Watch Demo 👇
