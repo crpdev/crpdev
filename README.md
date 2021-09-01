@@ -12,22 +12,6 @@ I am Rajapandian and I am glad if you're looking at this space to know about me 
 - 📫 [LinkedIn](https://www.linkedin.com/in/rajapandianc/)
 - 📟 [Twitter](https://twitter.com/crpcodes)
 
-<!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/crpcodes
-[2]: https://www.linkedin.com/in/rajapandianc/
-
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=crpdev&count_private=true&theme=tokyonight&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=crpdev&langs_count=5&theme=tokyonight)]()
